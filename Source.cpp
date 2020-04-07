@@ -24,7 +24,7 @@ int main()
 				break;
 			}
 		}
-
+		int number = 0;
 	}
 
 	return 0;
